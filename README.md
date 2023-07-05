@@ -1,5 +1,5 @@
 ### Hi there 👋
-<script src="https://tryhackme.com/badge/11903"></script>
+![Tryhackme_Profile_Image](https://tryhackme-badges.s3.amazonaws.com/omhack.png)
 <!--
 **omarrdaniel/omarrdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
