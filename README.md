@@ -1,5 +1,5 @@
-### Welcome to my profile 👋
-## TryHackMe Profile: 
+## Welcome to my profile 👋
+### TryHackMe Profile: 
 ![remote image](https://tryhackme-badges.s3.amazonaws.com/omhack.png)
 
 Cybersecurity student at Università degli Studi di Milano
