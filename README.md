@@ -1,6 +1,6 @@
 ## Welcome to my profile 👋
 ### TryHackMe Profile: 
-![remote image](<img src="https://tryhackme-badges.s3.amazonaws.com/omarrdaniel.png" alt="TryHackMe">)
+![remote image]("https://tryhackme-badges.s3.amazonaws.com/omarrdaniel.png")
 
 Cybersecurity student at Università degli Studi di Milano
 <!--
