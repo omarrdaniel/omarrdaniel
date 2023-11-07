@@ -4,8 +4,7 @@
 
 ### Blue Team Lab Online Profile [(Click!)](https://blueteamlabs.online/public/user/b5a87cdaef47805dabffe9)
 
-### CyberDefenders Profile:
-![remote image](https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/omarrdaniel.png)
+### CyberDefenders Profile [(Click!)](https://cyberdefenders.org/p/omarrdaniel)
 
 Cybersecurity student at Università degli Studi di Milano
 <!--
