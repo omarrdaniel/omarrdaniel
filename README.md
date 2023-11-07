@@ -6,6 +6,7 @@
 
 ### CyberDefenders Profile [(Click!)](https://cyberdefenders.org/p/omarrdaniel)
 
+
 Cybersecurity student at Università degli Studi di Milano
 <!--
 **omarrdaniel/omarrdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
