@@ -6,6 +6,8 @@
 
 ### CyberDefenders Profile [(Click!)](https://cyberdefenders.org/p/omarrdaniel)
 
+### Letsdefend Profile [(Click!)](https://app.letsdefend.io/user/omarrdaniel)
+
 
 Cybersecurity student at Università degli Studi di Milano
 <!--
