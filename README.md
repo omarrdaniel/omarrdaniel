@@ -4,6 +4,9 @@
 
 ### Blue Team Lab Online Profile [(Click!)](https://blueteamlabs.online/public/user/b5a87cdaef47805dabffe9)
 
+### CyberDefenders Profile:
+![remote image](https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/omarrdaniel.png)
+
 Cybersecurity student at Università degli Studi di Milano
 <!--
 **omarrdaniel/omarrdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
