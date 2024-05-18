@@ -1,6 +1,6 @@
 ## Welcome to my profile 👋
 ### TryHackMe Profile: 
-![remote image](https://tryhackme-badges.s3.amazonaws.com/omarrdaniel.pngh)
+![remote image](https://tryhackme-badges.s3.amazonaws.com/omarrdaniel.png)
 
 ### Blue Team Lab Online Profile [(Click!)](https://blueteamlabs.online/public/user/b5a87cdaef47805dabffe9)
 
