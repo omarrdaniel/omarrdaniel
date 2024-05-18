@@ -9,7 +9,7 @@
 ### Letsdefend Profile [(Click!)](https://app.letsdefend.io/user/omarrdaniel)
 
 
-Cybersecurity student at Università degli Studi di Milano
+Cybersecurity student @ Università degli Studi di Milano | Thesis Intern @ CyberArmorCH
 <!--
 **omarrdaniel/omarrdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
